@@ -25,7 +25,7 @@
 
 ## Features
 
-- **Zero-Bloat Footprint:** Pure runtime architecture weighing ~2.5 KB without heavy external C/Rust toolchains.
+- **Zero-Bloat Footprint:** Pure runtime architecture weighing ~4.5 KB without heavy external C/Rust toolchains.
 - **Universal Hamiltonian Engine (`aQuaUniverse`):** Unified operator mapping for quantum field dynamics, cosmic inflation, and black hole thermodynamic Page curve simulations.
 - **Biomolecular Lattice Solver:** Direct peptide sequence ground-state free-energy minimization and 3D diamond packing.
 - **Dual-Layer Quantum Defense:**
