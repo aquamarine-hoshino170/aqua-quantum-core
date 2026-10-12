@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Zero--Bloat-brightgreen.svg" alt="Zero Bloat" />
   <img src="https://img.shields.io/badge/Security-Kyber--768%20%7C%20Shor--Trap-blueviolet.svg" alt="Post-Quantum Security" />
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20Cloud-orange.svg" alt="Platforms" />
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%" alt="Platforms" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
 </p>
 
