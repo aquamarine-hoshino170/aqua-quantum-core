@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="assets/logo.png" alt="aQua Quantum Core Logo" width="220" />
 </p>
@@ -7,6 +9,8 @@
 <p align="center">
   <em>Universal Quantum Computing & Cosmological Tensor Framework</em>
 </p>
+
+
 
 # aQua Quantum Core (`aqua`)
 
