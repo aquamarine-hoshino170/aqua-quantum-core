@@ -7,6 +7,7 @@
 <p align="center">
   <em>Universal Quantum Computing & Cosmological Tensor Framework</em>
 </p>
+
 # aQua Quantum Core (`aqua`)
 
 An ultra-lightweight, zero-bloat universal quantum computing and field-simulation engine written in pure Python.
