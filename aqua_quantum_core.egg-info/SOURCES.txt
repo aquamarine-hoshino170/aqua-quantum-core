@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+aqua/__init__.py
+aqua/core.py
+aqua/kyber.py
+aqua_quantum_core.egg-info/PKG-INFO
+aqua_quantum_core.egg-info/SOURCES.txt
+aqua_quantum_core.egg-info/dependency_links.txt
+aqua_quantum_core.egg-info/top_level.txt
