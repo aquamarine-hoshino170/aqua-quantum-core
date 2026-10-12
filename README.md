@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Zero--Bloat-brightgreen.svg" alt="Zero Bloat" />
   <img src="https://img.shields.io/badge/Security-Kyber--768%20%7C%20Shor--Trap-blueviolet.svg" alt="Post-Quantum Security" />
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%" alt="Platforms" />
+  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20Embedded-orange.svg" alt="Platforms" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
 </p>
 
@@ -19,13 +19,13 @@
 
 ## Overview
 
-**`aQua`** is an ultra-lightweight, zero-dependency universal quantum computing and field dynamics framework. Designed to run natively on resource-constrained environments like Termux as well as cloud backends, it eliminates multi-gigabyte compiler toolchains while delivering sub-millisecond tensor state evaluations.
+**`aQua`** is an ultra-lightweight, zero-dependency universal quantum computing and field dynamics framework. Engineered to run natively across resource-constrained edge environments such as Termux, embedded platforms, and high-performance Unix systems, it eliminates multi-gigabyte compiler toolchains while delivering sub-millisecond tensor state evaluations.
 
 ---
 
 ## Features
 
-- **Zero-Bloat Footprint:** Pure runtime architecture weighing ~2.5 KB without heavy C/Rust dependencies.
+- **Zero-Bloat Footprint:** Pure runtime architecture weighing ~2.5 KB without heavy external C/Rust toolchains.
 - **Universal Hamiltonian Engine (`aQuaUniverse`):** Unified operator mapping for quantum field dynamics, cosmic inflation, and black hole thermodynamic Page curve simulations.
 - **Biomolecular Lattice Solver:** Direct peptide sequence ground-state free-energy minimization and 3D diamond packing.
 - **Dual-Layer Quantum Defense:**
